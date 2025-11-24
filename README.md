@@ -11,8 +11,8 @@ Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 5: 
 ### PROGRAM:
   ```
-# Developed by: RABI BASKAR PRABURAJAN
-# Register no:212224040257
+# Developed by:YUGABHARATHI 
+# Register no:212224230314
 import math
 x1, y1 = 4, 2
 x2, y2 = 10, 6
